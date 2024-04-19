@@ -1,0 +1,6 @@
+name = "faster-api"
+compatibility_date = "2024-04-19"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "tobemodified"
+UPSTASH_REDIS_REST_URL = "tobemodified"
